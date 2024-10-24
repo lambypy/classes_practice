@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
-        
+        Spaceship Rocinante = new Spaceship();
+        System.out.println(Rocinante);
     }
 }
